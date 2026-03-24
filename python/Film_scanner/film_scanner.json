@@ -1,0 +1,20 @@
+{
+  "color_mode": "W",
+  "brightness": {
+    "R": 100,
+    "G": 80,
+    "B": 100,
+    "W": 70
+  },
+  "custom_brightness": {
+    "R": 100,
+    "G": 100,
+    "B": 100
+  },
+  "rect_width": 320,
+  "rect_height": 240,
+  "rect_x": 60,
+  "rect_y": 400,
+  "scan_sequence": "WRGB",
+  "dark_frames": true
+}
